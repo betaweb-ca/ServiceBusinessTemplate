@@ -1,0 +1,116 @@
+{
+  "pageTitle": "Our Services",
+  "hero": {
+    "eyebrow": "Our Services",
+    "headline": "Reliable solutions for homes\nand businesses",
+    "description": "Whether it's a quick fix, routine maintenance, or a major project — our certified team handles it with care and craftsmanship.",
+    "cta": "Request a Quote"
+  },
+  "categories": [
+    "All Services",
+    "Residential",
+    "Commercial",
+    "Emergency",
+    "Maintenance"
+  ],
+  "cardCta": "Request Quote",
+  "learnMoreLabel": "Learn More",
+  "featured": {
+    "badge": "Most Popular",
+    "eyebrow": "Featured Package",
+    "title": "Complete Home Service Package",
+    "description": "One trusted partner for everything your home needs — from seasonal maintenance to repairs and upgrades. Designed for busy homeowners who want reliable results without juggling vendors.",
+    "image": "/images/featured-package.jpg",
+    "imageAlt": "Featured home service package",
+    "benefits": [
+      "Comprehensive property assessment & priority list",
+      "Bundled pricing — save up to 25% vs. à la carte",
+      "Single trusted team handles everything start to finish",
+      "Annual follow-ups & priority emergency response",
+      "Transferable warranty if you sell your home"
+    ],
+    "cta": "Get Your Custom Package"
+  },
+  "items": [
+    {
+      "id": "residential",
+      "title": "Residential Service",
+      "category": "Residential",
+      "description": "Trusted in-home solutions delivered by friendly, background-checked professionals.",
+      "price": "From $89",
+      "icon": "Home",
+      "image": "/images/services/residential.jpg",
+      "benefits": ["Clean & respectful", "Upfront pricing", "100% satisfaction"]
+    },
+    {
+      "id": "commercial",
+      "title": "Commercial Service",
+      "category": "Commercial",
+      "description": "Tailored service plans for offices, retail, and small businesses across the region.",
+      "price": "Custom Quote",
+      "icon": "Building2",
+      "image": "/images/services/commercial.jpg",
+      "benefits": ["Flexible scheduling", "Dedicated account lead", "Volume pricing"]
+    },
+    {
+      "id": "emergency",
+      "title": "Emergency Service",
+      "category": "Emergency",
+      "description": "24/7 response when something can't wait. We're on the way in 60 minutes or less.",
+      "price": "From $149",
+      "icon": "AlarmClock",
+      "image": "/images/services/emergency.jpg",
+      "benefits": ["Rapid dispatch", "Available 24/7", "Transparent rates"]
+    },
+    {
+      "id": "repairs",
+      "title": "Repairs & Maintenance",
+      "category": "Maintenance",
+      "description": "Keep things running smoothly with preventative tune-ups and quick fixes.",
+      "price": "From $99",
+      "icon": "Wrench",
+      "image": "/images/services/repairs.jpg",
+      "benefits": ["Annual plans", "Genuine parts", "1-year guarantee"]
+    },
+    {
+      "id": "installation",
+      "title": "New Installations",
+      "category": "Residential",
+      "description": "Expert installation of new systems and fixtures, done right the first time.",
+      "price": "Custom Quote",
+      "icon": "Hammer",
+      "image": "/images/services/installation.jpg",
+      "benefits": ["Free site visit", "Permits handled", "Manufacturer warranty"]
+    },
+    {
+      "id": "custom",
+      "title": "Custom Projects",
+      "category": "Commercial",
+      "description": "Have something unique in mind? Our team scopes, plans, and delivers end-to-end.",
+      "price": "Custom Quote",
+      "icon": "Sparkles",
+      "image": "/images/services/custom.jpg",
+      "benefits": ["Design consult", "Project manager", "On-time delivery"]
+    },
+    {
+      "id": "deep-clean",
+      "title": "Deep Cleaning",
+      "category": "Residential",
+      "description": "Top-to-bottom service for move-ins, move-outs, and seasonal refreshes.",
+      "price": "From $199",
+      "icon": "Sparkles",
+      "image": "/images/services/deep-clean.jpg",
+      "benefits": ["Eco-friendly products", "Detailed checklist", "Trained crew"]
+    },
+    {
+      "id": "tune-up",
+      "title": "Seasonal Tune-Up",
+      "category": "Maintenance",
+      "description": "Get ahead of breakdowns with our pre-season inspection and service package.",
+      "price": "From $129",
+      "icon": "BadgeCheck",
+      "image": "/images/services/tune-up.jpg",
+      "benefits": ["25-point check", "Priority booking", "Member discounts"]
+    }
+  ]
+}

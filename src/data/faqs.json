@@ -1,0 +1,29 @@
+{
+  "section": {
+    "eyebrow": "FAQs",
+    "title": "Common questions, clear answers",
+    "subtitle": "Still wondering? Reach out and we'll be glad to help."
+  },
+  "items": [
+    {
+      "question": "How do I request a quote?",
+      "answer": "Use the form on this page, call us at (555) 010-3344, or text 'QUOTE' to the same number. Most quotes come back within an hour during business days."
+    },
+    {
+      "question": "Do you offer same-day service?",
+      "answer": "Yes — for most service categories we offer same-day availability when you book before 11 AM. Emergency dispatch is available 24/7."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. Northline Service Co. is fully licensed in Ohio and carries $2M in general liability plus workers' comp coverage on every job."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Cedar Falls and the surrounding communities within a 30-mile radius. See the Service Areas section for the full list."
+    },
+    {
+      "question": "Do you provide free estimates?",
+      "answer": "Yes. Quotes and on-site estimates for most projects are 100% free with no obligation. Specialty assessments may carry a small fee, applied to your project if you book."
+    }
+  ]
+}

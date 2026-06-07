@@ -1,0 +1,27 @@
+{
+  "section": {
+    "eyebrow": "Reviews",
+    "title": "What our neighbors say",
+    "subtitle": "Real reviews from real customers in your community."
+  },
+  "items": [
+    {
+      "name": "Sarah M.",
+      "location": "Cedar Falls, OH",
+      "rating": 5,
+      "quote": "Northline arrived on time, explained everything clearly, and the price matched the quote exactly. I'll absolutely use them again."
+    },
+    {
+      "name": "James R.",
+      "location": "Westport, OH",
+      "rating": 5,
+      "quote": "Honest, professional, and friendly. They treated my home with respect and finished ahead of schedule. Highly recommend."
+    },
+    {
+      "name": "Priya K.",
+      "location": "Northbrook, OH",
+      "rating": 5,
+      "quote": "Best service experience we've had in years. Easy booking, fair pricing, and great communication start to finish."
+    }
+  ]
+}

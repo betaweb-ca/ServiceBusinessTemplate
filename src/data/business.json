@@ -1,0 +1,29 @@
+{
+  "name": "Northline Service Co.",
+  "tagline": "Reliable local service you can count on",
+  "description": "Your trusted neighborhood team for fast, professional service. Experienced technicians, transparent pricing, and easy online booking — guaranteed.",
+  "phone": "(555) 010-3344",
+  "phoneHref": "tel:+15550103344",
+  "email": "hello@northlineservice.co",
+  "address": "1247 Maple Ave, Suite 200",
+  "city": "Cedar Falls",
+  "region": "OH",
+  "fullAddress": "1247 Maple Ave, Suite 200, Cedar Falls, OH",
+  "hours": [
+    { "day": "Mon – Fri", "time": "7:00 AM – 7:00 PM" },
+    { "day": "Saturday", "time": "8:00 AM – 4:00 PM" },
+    { "day": "Sunday", "time": "Emergency Only" }
+  ],
+  "hoursSummary": "Mon–Fri 7am–7pm · Sat 8am–4pm",
+  "footerNote": "Locally owned and operated.",
+  "social": [
+    { "platform": "Facebook", "href": "#", "icon": "Facebook" },
+    { "platform": "Instagram", "href": "#", "icon": "Instagram" },
+    { "platform": "Twitter", "href": "#", "icon": "Twitter" },
+    { "platform": "LinkedIn", "href": "#", "icon": "Linkedin" }
+  ],
+  "legal": [
+    { "label": "Privacy", "href": "#" },
+    { "label": "Terms", "href": "#" }
+  ]
+}

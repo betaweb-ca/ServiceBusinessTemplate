@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "badge": "Now booking — same-day appointments available",
+    "headline": "Reliable local service,\ndone right the first time.",
+    "description": "Experienced technicians, transparent pricing, and easy online booking — guaranteed.",
+    "primaryCta": "Get a Free Quote",
+    "secondaryCtaPrefix": "Call",
+    "rating": "4.9/5",
+    "reviewCount": "800+ verified reviews",
+    "image": "/images/hero.jpg",
+    "imageAlt": "Service technician at work",
+    "floatingBadges": [
+      {
+        "title": "100% Satisfaction",
+        "subtitle": "Money-back guarantee",
+        "icon": "Check"
+      },
+      {
+        "title": "15+",
+        "subtitle": "Years serving locals",
+        "variant": "dark"
+      }
+    ]
+  },
+  "trustBadges": [
+    { "icon": "ShieldCheck", "label": "Licensed & Insured" },
+    { "icon": "Clock", "label": "Same-Day Availability" },
+    { "icon": "MapPin", "label": "Local Experts" },
+    { "icon": "Star", "label": "5-Star Rated" }
+  ],
+  "servicesPreview": {
+    "eyebrow": "What we do",
+    "title": "Services built for homes & businesses",
+    "subtitle": "From quick fixes to full installations, our certified pros handle the work so you don't have to.",
+    "previewCount": 6,
+    "viewAllLabel": "View All Services"
+  },
+  "whyChooseUs": {
+    "eyebrow": "Why choose us",
+    "title": "Local pros you can actually trust",
+    "subtitle": "We've earned our reputation one job at a time. Here's what sets us apart.",
+    "items": [
+      {
+        "icon": "Zap",
+        "title": "Fast Response",
+        "description": "Same-day appointments and rapid dispatch when you need us most."
+      },
+      {
+        "icon": "HandCoins",
+        "title": "Transparent Pricing",
+        "description": "Upfront quotes with no surprise fees — ever. Just honest work."
+      },
+      {
+        "icon": "Users",
+        "title": "Professional Team",
+        "description": "Background-checked, licensed pros who treat your space like their own."
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy? We'll make it right or your money back, no questions asked."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "Simple, painless, and fast",
+    "subtitle": "Booking service should be the easy part. Three steps and you're done.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Request a Quote",
+        "description": "Tell us what you need in 60 seconds — online, by phone, or text."
+      },
+      {
+        "step": "02",
+        "title": "Schedule Service",
+        "description": "Pick a time that works. We confirm with a reminder before we arrive."
+      },
+      {
+        "step": "03",
+        "title": "Get It Done",
+        "description": "Our team shows up on time, works clean, and leaves you smiling."
+      }
+    ]
+  },
+  "serviceArea": {
+    "eyebrow": "Where we work",
+    "title": "Proudly serving your neighborhood",
+    "subtitleTemplate": "Headquartered in {primary} and serving the surrounding communities.",
+    "primaryLabel": "Primary service area",
+    "radiusLabel": "Service radius",
+    "radiusMiles": 30,
+    "radiusTemplate": "{miles} miles from {primary}",
+    "footerNote": "Don't see your area? Give us a call — we often serve nearby towns by request."
+  },
+  "ctaBanner": {
+    "title": "Ready for service done right?",
+    "description": "Book online in 60 seconds or call now to speak with a real person. Free quotes, transparent pricing, no pressure.",
+    "primaryCta": "Get a Free Quote"
+  }
+}

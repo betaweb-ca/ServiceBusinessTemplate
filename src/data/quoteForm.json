@@ -1,0 +1,60 @@
+{
+  "section": {
+    "eyebrow": "Get in touch",
+    "title": "Request your free quote",
+    "description": "Tell us a bit about what you need and we'll get back with transparent pricing — typically within the hour during business days."
+  },
+  "contactLabels": {
+    "phone": "Call us",
+    "email": "Email",
+    "visit": "Visit",
+    "hours": "Hours"
+  },
+  "fields": [
+    {
+      "id": "name",
+      "label": "Full Name",
+      "type": "text",
+      "required": true,
+      "placeholder": "Jane Doe",
+      "colSpan": 1
+    },
+    {
+      "id": "phone",
+      "label": "Phone",
+      "type": "tel",
+      "required": true,
+      "placeholder": "(555) 555-5555",
+      "colSpan": 1
+    },
+    {
+      "id": "email",
+      "label": "Email",
+      "type": "email",
+      "required": true,
+      "placeholder": "jane@email.com",
+      "colSpan": 2
+    },
+    {
+      "id": "service",
+      "label": "Service Needed",
+      "type": "select",
+      "required": false,
+      "placeholder": "Select a service",
+      "colSpan": 2,
+      "includeOtherOption": true,
+      "otherLabel": "Something else"
+    },
+    {
+      "id": "message",
+      "label": "Message",
+      "type": "textarea",
+      "required": false,
+      "placeholder": "Tell us a bit about the project, timing, and any details...",
+      "rows": 4,
+      "colSpan": 2
+    }
+  ],
+  "disclaimer": "By submitting you agree to be contacted about your request.",
+  "successMessage": "Quote request sent! We'll be in touch within the hour."
+}
